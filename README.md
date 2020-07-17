@@ -4,4 +4,4 @@
 - 🔭 I’m building awesome things in [Colab](http://colab.research.google.com/) & the mighty [Streamlit](https://streamlit.io/) framework! 🔥
 - 👯 I’m looking to collaborate on exciting Data Science projects!
 - 📫 You can reach on Twitter -> [@DataChaz](https://twitter.com/DataChaz) 
-- 💬 ... or via my website: https://www.charlywargnier.com/
+- 💬 ... or via my website: [CharlyWargnier.com](https://www.charlywargnier.com/)
