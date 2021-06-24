@@ -39,6 +39,14 @@ I'm Charly, an SEO Engineer, Data Scientist and Python dev, building data web ap
 </p>
 
 
+[![Charly's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyWargnier&theme=default )](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3>My latest posts</h3>
+<ul>
+
+
+
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/CharlyWargnier/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/DataChaz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/charlywargnier/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </a>
