@@ -27,7 +27,7 @@ I'm Charly, an SEO Engineer, Data Scientist and Python dev, building data web ap
 
 </p>
 
-### Web frameworks
+### Web Frameworks
 
 [![](https://img.shields.io/badge/-🎈%20Streamlit-010)](https://streamlit.io/)
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white/)
