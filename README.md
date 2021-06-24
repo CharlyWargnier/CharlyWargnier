@@ -1,3 +1,4 @@
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my page! 
@@ -38,14 +39,9 @@ I'm Charly, an SEO Engineer, Data Scientist and Python dev, building data web ap
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+[![Charly's github stats](https://github-readme-stats.vercel.app/api?username=CharlyWargnier&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Charly's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyWargnier&theme=default )](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3>My latest posts</h3>
-<ul>
-
-
 
 
 <h3>Where to find me</h3>
