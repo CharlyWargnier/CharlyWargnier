@@ -40,7 +40,6 @@ I'm Charly, an SEO Engineer, Data Scientist and Python dev, building data web ap
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![PyTorch](https://img.shields.io/badge/-Ludwig-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 <p>
