@@ -5,9 +5,8 @@
 
 Welcome to my page! 
 
-I'm Charly, an SEO Engineer, Data Scientist and Python dev, building data web apps with the mighty [Streamlit](https://streamlit.io/) framework! 🎈
+I'm Charly, I'm Developer Advocate at 🎈 [Streamlit](https://streamlit.io/)!
 
-- 🎈 I'm a developer advocate for [Streamlit](https://streamlit.io/)
 - 🚀 Have a sneak peek at my [public web apps](https://www.charlywargnier.com/my-public-web-apps). My apps are 100% Python, spanning topics I'm passionate about, such as SEO, machine learning, NLP, analytics and forecasting
 - 🌐 My website ➔ [CharlyWargnier.com](https://www.charlywargnier.com/)
 - 📱 Need a script or an app? Reach on me Twitter ➔ [@DataChaz](https://twitter.com/DataChaz)
