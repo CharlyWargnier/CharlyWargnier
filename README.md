@@ -32,7 +32,6 @@ I'm Charly, I'm Developer Advocate at 🎈 [Streamlit](https://streamlit.io/)!
 ### Web Frameworks
 
 [![](https://img.shields.io/badge/-🎈%20Streamlit-910)](https://streamlit.io/)
-![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white/)
 ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white/)
   
 ### My Tech Stack (others)
