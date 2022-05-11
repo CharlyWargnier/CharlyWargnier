@@ -73,12 +73,6 @@ I'm Charly, I'm Developer Advocate at 🎈 [Streamlit](https://streamlit.io/)!
 - [Leverage Python and Google Cloud to extract meaningful SEO insights from server log data](https://searchengineland.com/leverage-python-and-google-cloud-to-extract-meaningful-seo-insights-from-server-log-data-329199)
 <!-- BLOG-POST-LIST:END -->
 
-📣 Latest Talks
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Coming Soon!](https://www.wordstream.com/blog/ws/2020/08/11/coming-soon-landing-page#:~:text=A%20coming%20soon%20landing%20page%20is%20a%20temporary%20landing%20page,a%20new%20product%20or%20service.&text=Because%20launching%20your%20product%20or,your%20coming%20soon%20landing%20page.)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
 ---
 
 <h3>Where to find me</h3>
