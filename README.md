@@ -5,7 +5,8 @@
 
 Welcome to my page! 
 
-I'm Charly, I'm Developer Advocate at 🎈 [Streamlit](https://streamlit.io/)!
+I'm Charly, I'm Developer Advocate at 🎈[Streamlit](https://streamlit.io/) / ❄️[SnowFlake](https://www.snowflake.com/)
+
 
 - 🚀 Have a sneak peek at my [public web apps](https://www.charlywargnier.com/my-public-web-apps). My apps are 100% Python, spanning topics I'm passionate about, such as SEO, machine learning, NLP, analytics and forecasting
 - 🌐 My website ➔ [CharlyWargnier.com](https://www.charlywargnier.com/)
